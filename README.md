@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Python" src="https://img.shields.io/badge/swift-#F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
 <!--
 **hbc8141/hbc8141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
